@@ -1,0 +1,8 @@
+{
+  "name": "rumc_curseforge_scraper",
+  "version": "1.0.0",
+  "dependencies": {
+    "cloudscraper": "^4.6.0",
+    "request": "^2.88.2"
+  }
+}
